@@ -1,0 +1,27 @@
+:root{
+    --color: black;
+    --secColor: gray;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 70px;
+    width: 70px;
+}
+
+nav{
+    border: 2px solid var(--color);
+    display: flex;
+    height: 75px;
+    background-color: var(--color);
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    background-color: var(--secColor);
+}
