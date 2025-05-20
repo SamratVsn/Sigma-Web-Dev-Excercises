@@ -18,7 +18,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  animation: animate 3s linear infinite, animateY 1s ease-out infinite alternate;
+  animation: animate 100s linear infinite, animateY 1s ease-out infinite alternate;
 }
 
 .box img{
